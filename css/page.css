@@ -3,5 +3,6 @@
     margin-left: 50%;
     border: solid 1px black;
     border-radius: 15px;
+    display: flex;
     
 }
