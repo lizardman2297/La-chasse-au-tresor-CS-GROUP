@@ -9,7 +9,7 @@
 <body>
     <div id="titre">
         <h1>Futur nom</h1>
-        <a href="./page/page1.php">tuto1
+        <a href="./page/page1.php">Page1
     </div>
 </body>
 </html>
