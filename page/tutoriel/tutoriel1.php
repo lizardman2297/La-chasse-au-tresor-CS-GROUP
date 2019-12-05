@@ -18,6 +18,7 @@
             <input type="number" name="pourcentage" id="pourcentage" min="0" max="100" steep="1">
             <input type="submit" value="Verifier">
         </form>
+        <br/>
         <?php
 
     if (isset($_GET["stat"])) {
@@ -26,9 +27,11 @@
         } else{
             echo "Malheuresement ce n'est pas la bonne valeur";
         }
+
     }
 
 ?>
+        <a href="../page1.php">Page précédente</a>
     </div>
 
 </body>
