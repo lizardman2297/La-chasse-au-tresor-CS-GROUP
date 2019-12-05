@@ -51,5 +51,9 @@
             <input type="submit" value="Repondre">
         </form>
     </div>
+    <div>
+    <a href="../../index.php">Page précédente</a>
+</div>
 </body>
 </html>
+
