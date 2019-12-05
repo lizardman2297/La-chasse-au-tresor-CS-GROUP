@@ -1,3 +1,10 @@
+<?php
+
+    if (isset($_GET["door"]) && $_GET["door"] == 1) {
+        echo "Resultat du calcule : OK";
+    }
+
+?>
 <!DOCTYPE html>
 <html>
     <head>
