@@ -31,7 +31,7 @@
     }
 
 ?>
-        <a href="../page1.php">Page précédente</a>
+        <a href="../../index.php">Page précédente</a>
     </div>
 
 </body>
