@@ -9,7 +9,12 @@
 <body>
     <div id="titre">
         <h1>Futur nom</h1>
+    </div>
+    <div id="content">
         <a href="./page/page1.php">Vers tuto
+    </div>
+    <div id="coffreFort">
+        coffre fort
     </div>
 </body>
 </html>
