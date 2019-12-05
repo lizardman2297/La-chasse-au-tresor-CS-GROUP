@@ -22,5 +22,21 @@ div p
 .tuto3
 {
     position: absolute;
-    color: red;
+
+}
+
+.coffre
+{
+    height: 250px;
+    width: 300px;
+    
+}
+
+.coffre img
+{
+    position: absolute;
+    margin-left: 50%;
+    top: 200px;
+    border: solid 1px black;
+
 }

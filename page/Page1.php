@@ -21,6 +21,9 @@
                 <p class="tuto2">tutoriel 3</p>
             </div>
         </div>
+        <div class="coffre">
+            <a href="./entrerCode.php"><img class="coffre" src="../image/coffre.jpg" alt="qr-code"></a>
+        </div>
 
     </body>
 
