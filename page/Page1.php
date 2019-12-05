@@ -1,10 +1,4 @@
-<?php
 
-    if (isset($_GET["door"]) && $_GET["door"] == 1) {
-        echo "Resultat du calcule : OK";
-    }
-
-?>
 <!DOCTYPE html>
 <html>
     <head>
@@ -12,7 +6,13 @@
 
     </head>
     <body>
-        <h1></h1>
+        <h1>
+        <?php
+            if (isset($_GET["door"]) && $_GET["door"] == 1) {
+                echo "Resultat du calcule : OK";
+            }
+        ?>
+        </h1>
         <div class="corePage1">
             <div >
                 <a href="./tutoriel/tutoriel1.php"><img src="../image/vrai-faux.png" alt="vrai-faux"></a>
