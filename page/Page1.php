@@ -5,9 +5,8 @@
 
     </head>
     <body>
-        <h1>Page1</h1>
+        <h1></h1>
         <div class="corePage1">
-            
             <div >
                 <a href="./tutoriel/tutoriel1.php"><img src="../image/vrai-faux.png" alt="vrai-faux"></a>
                 <p class="tuto1">tutoriel 1</p>
