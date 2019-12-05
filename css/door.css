@@ -1,0 +1,30 @@
+#door{
+    display: inline-flex;
+}
+.door{
+    height: 340px;
+}
+.textImage{
+    position: relative;
+    top: 185px;
+    left: 184px;
+    width: fit-content;
+}
+
+.itemHover{
+    color: red;
+}
+
+.door1{
+    border-right: white solid 30px;
+    border-spacing: 10px;
+}
+.door2{
+    border-right: white solid 30px;
+    border-left: white solid 30px;
+    border-spacing: 10px;
+}
+.door3{
+    border-left: white solid 30px;
+    border-spacing: 10px;
+}
