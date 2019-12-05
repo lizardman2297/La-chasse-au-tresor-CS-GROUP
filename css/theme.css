@@ -1,0 +1,14 @@
+html{
+    background-color: slateblue;
+}
+
+h1{
+    color: snow;
+    background-color: steelblue;
+    border-radius: 1em;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    width: 70%;
+    
+}

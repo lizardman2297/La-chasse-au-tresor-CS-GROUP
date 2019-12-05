@@ -7,6 +7,8 @@
     <title>Futur nom</title>
 </head>
 <body>
-    
+    <div id="titre">
+        <h1>Futur nom</h1>
+    </div>
 </body>
 </html>
