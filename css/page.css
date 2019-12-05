@@ -4,5 +4,23 @@
     border: solid 1px black;
     border-radius: 15px;
     display: flex;
-    
+    position: absolute;
+    background-color: silver;
+
+}
+
+div p
+{
+    position: absolute;
+    bottom: 25px;
+    padding-left: 20px;
+    color: black;
+    font-size: larger;
+
+}
+
+.tuto3
+{
+    position: absolute;
+    color: red;
 }
