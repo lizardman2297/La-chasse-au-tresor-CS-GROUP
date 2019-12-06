@@ -1,7 +1,26 @@
 html{
-    background-color: slateblue;
+    background-color : #2D60A1;
+    margin-top: 50px;
 }
-#conteneur{
+body{
+    
+    background-color: snow;
+    height: auto;
+    border-radius: 20px;
+    width: 60%;
+    margin: auto;
+    font-family: 'Bebas Neue', cursive;
+}
+#conteneurPage{
+    display: flex;
+    flex-direction: column;
+}
+.elementsPage{
+    justify-content: center;
+    text-align: center;
+}
+
+#conteneurRonds{
     display: flex;
     margin-top : 20px;
     margin-bottom : 20px;
@@ -11,34 +30,34 @@ html{
     margin: 10px;
     
 }
-
 #potar{
     width: 300px;
 }
-
-
 h1{
-    color: snow;
-    background-color: steelblue;
+    color: black;
+ 
     border-radius: 5px;
     text-align: center;
     margin: auto;
     margin-top: 50px;
-    width: 70%;
+    width: 50%;
     font-size: 1.5em;
     
 }
+#Combinaison{
+   font-size: 5em;
+}
 #btnAcceder{
     
-    
-  background-color: #4CAF50; 
+  background-color: red; 
   border: none;
   color: white;
-  border-radius: 5px;
-  padding: 15px 32px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  width: 100%;
+  height: 50px;
+  font-size: 2em;
   text-align: center;
   text-decoration: none;
-
-  
-
+  font-family: 'Bebas Neue', cursive;
 }
