@@ -6,10 +6,10 @@
     $q4 = $_POST["q4"];
     $q5 = $_POST["q5"];
 
-    if ($q1 == "Caf" && $q2 == "561.20" && $q3 == "28" && $q4 == "691 200" && $q5 == "43") {
+    if ($q1 == "Crous" && $q2 == "561.20" && $q3 == "28" && $q4 == "691 200" && $q5 == "43") {
         header("location: ../page/CAF561.202869120043.php");
     }else {
-        header("location: ../page/page4.php?q=not");
+        header("location: ../page/APL.php?q=not");
     }
 
 
