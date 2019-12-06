@@ -23,7 +23,7 @@
 
     if (isset($_GET["stat"])) {
         if ($_GET["stat"] == 1) {
-            echo "C'est vrai, environ 20% des étudiants vivent sous le seuil de pauvreté soit 908 euros en France";
+            echo "C'est vrai, environ 20% des étudiants vivent sous le seuil de pauvreté soit 908 euros en France. Code : 2";
         } else{
             echo "Malheuresement ce n'est pas la bonne valeur";
         }

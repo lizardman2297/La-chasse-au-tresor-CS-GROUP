@@ -4,3 +4,14 @@ body {
 p {
     color : white;
 }
+
+.diode input {
+    color : black;
+    background-color: black;
+    border: none;
+}
+.diode input:hover {
+    color : rgb(192, 190, 190);
+    background-color: grey;
+    border: none;
+}

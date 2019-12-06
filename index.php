@@ -15,7 +15,7 @@
             <h1>
             <?php
                 if (isset($_GET["door"]) && $_GET["door"] == 1) {
-                    echo "Resultat du calcule : OK";
+                    echo "Resultat du calcul : OK";
                 }
             ?>
             </h1>
@@ -29,14 +29,14 @@
                 </a>
                 <a href="./page/tutoriel/tutoriel2.php">
                 <div class="elementsTutos">
-                    <img src="./image/numero.png" alt="numero">
+                    <img src="./image/porte.png" alt="porte">
                     <p class="texttutos">tutoriel deux</p>
                 </div>
                 </a>
                 <a href="./page/tutoriel/tutoriel3.php">
                 <div class="elementsTutos">
-                    <img src="./image/porte.png" alt="porte">
-                    <p class="texttutos">tutoriel troix</p>
+                    <img src="./image/numero.png" alt="numero">
+                    <p class="texttutos">tutoriel trois</p>
                 </div>
                 </a>
             </div>
