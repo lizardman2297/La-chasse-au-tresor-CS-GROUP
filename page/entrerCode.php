@@ -43,9 +43,9 @@
     elseif ($potar3 <= 0) {
         $potar3 = 360;
     }
-    echo "<div class='potar'><a href ='entrercode.php?potar1=". ($potar1 - 36) ."&potar2=".$potar2."&potar3=".$potar3."'><img style='transform : rotate(".$potar1."deg)' id='potar' src='../images/potar.png' alt='potar'></a> </div>";
-    echo "<div class='potar'><a href ='entrercode.php?potar1=". $potar1 ."&potar2=".($potar2 - 36)."&potar3=".$potar3."'><img style='transform : rotate(".$potar2."deg)' id='potar' src='../images/potar.png' alt='potar'></a> </div>";
-    echo "<div class='potar'><a href ='entrercode.php?potar1=". $potar1 ."&potar2=".$potar2."&potar3=".($potar3 - 36)."'><img style='transform : rotate(".$potar3."deg)' id='potar' src='../images/potar.png' alt='potar'></a> </div>";
+    echo "<div class='potar'><a href ='entrercode.php?potar1=". ($potar1 - 36) ."&potar2=".$potar2."&potar3=".$potar3."'><img style='transform : rotate(".$potar1."deg)' id='potar' src='../image/potar.png' alt='potar'></a> </div>";
+    echo "<div class='potar'><a href ='entrercode.php?potar1=". $potar1 ."&potar2=".($potar2 - 36)."&potar3=".$potar3."'><img style='transform : rotate(".$potar2."deg)' id='potar' src='../image/potar.png' alt='potar'></a> </div>";
+    echo "<div class='potar'><a href ='entrercode.php?potar1=". $potar1 ."&potar2=".$potar2."&potar3=".($potar3 - 36)."'><img style='transform : rotate(".$potar3."deg)' id='potar' src='../image/potar.png' alt='potar'></a> </div>";
   //}
     ?>
  </div>
