@@ -13,7 +13,7 @@
         </div>
         <div class="diode">
             <img src="../image/MorseGIF.gif"> </img>
-            <form action="../../methode/redir-254698.php" method="post">
+            <form action="../methode/redir-254698.php" method="post">
                 <input type="string" name="code" id="code">
                 <input type="submit" value="Page Suivante">
             </form>
