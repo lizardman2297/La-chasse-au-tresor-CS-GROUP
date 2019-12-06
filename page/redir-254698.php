@@ -23,7 +23,7 @@
         <?php
             if (isset($_GET["stat"])) {
                 if ($_GET["stat"] == 1) {
-                    echo '<a href="./APL">Retrouvez votre chemin à présent</a>';
+                    echo '<a href="./APL.php">Retrouvez votre chemin à présent</a>';
                 } else{
                     echo "<span onload='bip()' class='bip' id='bip'>bip biiiip</span>";
                 }
