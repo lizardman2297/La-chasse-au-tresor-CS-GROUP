@@ -41,7 +41,7 @@
                 </a>
             </div>
             <div class="elementsPage">
-                <a href="./page/EntrerCode.php?potar1=360&potar2=360&potar3=360"><img  src="./image/coffre.jpg" alt="qr-code"></a>
+                <a href="./page/entrerCode.php?potar1=360&potar2=360&potar3=360"><img  src="./image/coffre.jpg" alt="qr-code"></a>
             </div>
         </div>    
     </body>

@@ -48,7 +48,7 @@
             </div> 
         </div>
         
-        <form action="../../methode/verifDoor.php" method="post">
+        <form action="../../index.php" method="post">
             <input type="number" name="result" id="result">
             <input type="submit" value="Repondre">
         </form>
