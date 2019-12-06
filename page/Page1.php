@@ -19,11 +19,11 @@
                 <a href="./tutoriel/tutoriel1.php"><p class="tuto1">tutoriel 1</p></a>
             </div>
             <div>
-                <a href="./tutoriel/tutoriel2.php"><img src="../image/numero.png" alt="numero"></a>
+                <a href="./tutoriel/tutoriel2.php"><img src="../image/porte.png" alt="porte"></a>
                 <a href="./tutoriel/tutoriel2.php"><p class="tuto2">tutoriel 2</p></a>
             </div>
             <div>
-                <a href="./tutoriel/tutoriel3.php"><img src="../image/porte.png" alt="porte"></a>
+                <a href="./tutoriel/tutoriel3.php"><img src="../image/numero.png" alt="numero"></a>
                 <a href="./tutoriel/tutoriel3.php"><p class="tuto2">tutoriel 3</p></a>
             </div>
         </div>
