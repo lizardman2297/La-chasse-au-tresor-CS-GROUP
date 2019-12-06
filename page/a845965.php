@@ -9,7 +9,7 @@
         <h1>Vous avez passé le tutoriel</h1>
         <br/>
         <div class="corePage1">
-            <p>Décryptez le cercle rouge sur le site du projet principal et rendez vous à la bonne adresse</p>
+            <p style ='text-align : center;'>Décryptez le cercle rouge sur le site du projet principal et rendez vous à la bonne adresse</p>
         </div>
     </body>
 </html>
