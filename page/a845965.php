@@ -6,7 +6,7 @@
     </head>
 <body>
     <body>
-        <h1>?????</h1>
+        <h1>Vous avez passé le tutoriel</h1>
         <br/>
         <div class="corePage1">
             <p>La suite est dans le cercle rouge</p>

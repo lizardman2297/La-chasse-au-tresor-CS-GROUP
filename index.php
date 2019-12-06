@@ -1,3 +1,8 @@
+<?php
+    if (isset($_GET["v"])) {
+        echo "<h1>Veuillez finir les 3 tutos</h1>";
+    }
+?>
 <!DOCTYPE html>
 <html>
     <head>
