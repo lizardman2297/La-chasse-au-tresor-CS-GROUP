@@ -1,5 +1,7 @@
 <link rel="icon" type="image/png" href="./image/logo.jpg" />
-<link rel="stylesheet" href="../../css/page.css">
+
+<link type="text/css" href="../../css/page.css" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap" rel="stylesheet">
 
 <body>        
     <div id='fond'>

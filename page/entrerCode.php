@@ -15,6 +15,7 @@
 <html>
 <head>
 <link href="../css/theme.css" rel="stylesheet">
+<link href="../css/entrerCode.css" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap" rel="stylesheet">
 </head>
 <body>

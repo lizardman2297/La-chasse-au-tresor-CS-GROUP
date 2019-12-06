@@ -1,0 +1,39 @@
+#conteneurPage{
+    display: flex;
+    flex-direction: column;
+}
+.elementsPage{
+    justify-content: center;
+    text-align: center;
+}
+
+#conteneurRonds{
+    display: flex;
+    margin-top : 20px;
+    margin-bottom : 20px;
+}
+
+.potar{
+    margin: 10px;
+    
+}
+#potar{
+    width: 300px;
+}
+#Combinaison{
+    font-size: 5em;
+ }
+ #btnAcceder{
+     
+   background-color: red; 
+   border: none;
+   color: white;
+   border-bottom-left-radius: 20px;
+   border-bottom-right-radius: 20px;
+   width: 100%;
+   height: 50px;
+   font-size: 2em;
+   text-align: center;
+   text-decoration: none;
+   font-family: 'Bebas Neue', cursive;
+ }

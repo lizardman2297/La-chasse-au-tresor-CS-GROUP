@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <!--<link type="text/css" href="../css/page.css" rel="stylesheet">-->
-
+        <link href="../css/theme.css" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap" rel="stylesheet">
     </head>
+<body>
     <body>
         <h1>?????</h1>
         <br/>

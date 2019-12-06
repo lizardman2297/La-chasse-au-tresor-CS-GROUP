@@ -1,0 +1,38 @@
+#conteneurPage{
+    display: flex;
+    flex-direction: column;
+}
+.elementsPage{
+    justify-content: center;
+    text-align: center;
+}
+
+#conteneurTutoriel{
+    display: flex;
+    margin-top : 20px;
+    margin-bottom : 20px;
+}
+.elementsTutos{
+    justify-content: center;
+    text-align: center;
+    background-color: snow;
+    border-radius : 20px;
+    margin: 20px;
+
+}
+body{
+    background-color: #B1ADAC;
+}
+.texttutos{
+    color: black;
+    font-size: 2em;
+    margin: 5px;
+}
+.elementsTutos img{
+    
+    margin: 20px;
+
+}
+h1{
+    font-size: 5em;
+}

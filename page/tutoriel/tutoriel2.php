@@ -14,6 +14,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="../../css/door.css">
     <script src="../../js/door.js"></script>
+    <link href="../../css/theme.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap" rel="stylesheet">
     <title>Porte mathematique</title>
 </head>
 <body>
