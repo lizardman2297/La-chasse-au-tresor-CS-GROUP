@@ -1,3 +1,6 @@
+<?php
+    require_once("../methode/testTuto.php");
+?>
 <!DOCTYPE html>
 <html>
     <head>
