@@ -19,7 +19,7 @@
                 }
             ?>
             </h1>
-            <h1 class="elementsPage">La Chasse au Tresors</h1>
+            <h1 class="elementsPage">La Chasse aux Tresors</h1>
             <div class="elementsPage" id="conteneurTutoriel">
             <a href="./page/tutoriel/tutoriel1.php">
                 <div class="elementsTutos">

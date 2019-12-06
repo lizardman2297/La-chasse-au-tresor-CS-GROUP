@@ -7,7 +7,7 @@
     $q5 = $_POST["q5"];
 
     if ($q1 == "Crous" && $q2 == "561.20" && $q3 == "28" && $q4 == "691 200" && $q5 == "43") {
-        header("location: ../page/CROUS561.202869120043.php");
+        header("location: ../page/PorteFinal.php");
     }else {
         header("location: ../page/APL.php?q=not");
     }

@@ -4,11 +4,12 @@
         <link type="text/css" href="../css/page.css" rel="stylesheet">
 
     </head>
-    <body>
+    <body id="aplMain">
+        <h1>Questionnaire Crous</h1>
         <form action="../methode/quiz.php" method="post">
             <p>
                 Question 1 :
-                Quelle est la principal agence d'aide financiaire pour les etudient ???
+                Quelle est la principale agence d'aide financiaire pour les &eacute;tudiants ?
                 <select name="q1" id="q1">
                     <option value="Reponce" ></option>
                     <option value="Caf" >Caf</option>
@@ -17,7 +18,7 @@
             </p>
             <p>
                 Question 2 :
-                Quelle est le montent maximal mensuel accorder par la bourse en 2019 ???
+                Quel est le montant maximal mensuel accord&eacute; par la bourse en 2019 ?
                 <select name="q2">
                     <option value="Reponce" ></option>
                     <option ! value="561.20" >561,20</option>
@@ -27,7 +28,7 @@
             </p>
             <p>
                 Question 3 :
-                Quelle combient de crous sont disponible en france ???
+                Combien d'agences Crous sont disponibles en France ?
                 <select name="q3">
                     <option value="Reponce" ></option>
                     <option ! value="28" >28</option>
@@ -37,7 +38,7 @@
             </p>
             <p>
                 Question 4 :
-                Quelle combient y a t-il d'etudient bourcier en france en  ???
+                Combien y a t-il d'etudiant boursier en France en 2019 ?
                 <select name="q4">
                     <option value="Reponce" ></option>
                     <option value="141 962" >141 962</option>
@@ -48,7 +49,7 @@
             </p>
             <p>
                 Question 5 :
-                Quel est le taux d'etudient francais eyent optenue une licence ou equivalant ???
+                Quel est le taux d'&eacute;tudiant francais ayant obtenu une licence ou &eacute;quivalant ?
                 <select name="q5">
                     <option value="Reponce" ></option>
                     <option ! value="43" >43 %</option>
@@ -63,7 +64,7 @@
         <?php
 
             if (isset($_GET["q"]) && $_GET["q"] == "not") {
-                echo "faux refais";
+                echo "Il y a une ou plusieurs erreur, veuillez essayer de nouveau";
             }
 
         ?>
