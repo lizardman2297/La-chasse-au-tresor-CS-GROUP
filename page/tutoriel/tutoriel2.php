@@ -2,7 +2,7 @@
     require_once("../../methode/alea.php");
     $nb = nbAlea();
     if (isset($_GET["door"]) && $_GET["door"] == 0) {
-        echo "Resultat faut, veuillez retenter";
+        echo "Resultat faux, veuillez retenter";
     }
 ?>
 

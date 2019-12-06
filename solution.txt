@@ -1,0 +1,21 @@
+Voici la liste des solutions pour les enigmes proposées
+
+Tutoriaux :
+Les tutoriaux donnent une partie du code à rentrer dans le coffre fort
+Page Tutoriel1 : La réponse est 20, elle donne le chiffre "2"
+Page Tutoriel2 : La réponse au calcul est 8, le chiffre est celui utilisé pour le coffre.
+Page Tutoriel3 : Le nombre suivant est 9, le chiffre est celui utilisé pour le coffre.
+Page entrerCode : Le code est 289
+
+
+Page a845965
+Le cercle rouge est celui du logo du Crous sur le site principal. Il faut décrypter l'image avec ce site https://incoherency.co.uk/image-steganography/# 
+(ou plus globalement décodant la steganographie). Il s'agit d'un des premiers sites lors d'une recherche sur la steganographie.
+Après avoir décrypté l'image il faut changer l'url par /La-chasse-au-tresor-CS-GROUP/page/redir-254698
+redir-254698 étant le texte écrit sur l'image décryptée.
+
+Page redir-254698
+La diode à l'écran signale un code morse.
+Le code est le suivant : court-long court-long-long-court court-long-court-court
+Cela donne le code "APL"
+

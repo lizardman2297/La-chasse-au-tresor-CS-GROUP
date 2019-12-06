@@ -15,7 +15,7 @@
             <h1>
             <?php
                 if (isset($_GET["door"]) && $_GET["door"] == 1) {
-                    echo "Resultat du calcule : OK";
+                    echo "Resultat du calcul : OK";
                 }
             ?>
             </h1>
@@ -36,7 +36,7 @@
                 <a href="./page/tutoriel/tutoriel3.php">
                 <div class="elementsTutos">
                     <img src="./image/numero.png" alt="numero">
-                    <p class="texttutos">tutoriel troix</p>
+                    <p class="texttutos">tutoriel trois</p>
                 </div>
                 </a>
             </div>
