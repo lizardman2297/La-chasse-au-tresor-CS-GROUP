@@ -2,7 +2,7 @@
 function dataBaseConnect(){
     $dsn = 'mysql:dbname=chasseAuTresor;host=127.0.0.1';
     $user = 'root';
-    $password = 'nuitdelinfo';
+    $password = '';
     
     try {
         return new PDO($dsn, $user, $password);
