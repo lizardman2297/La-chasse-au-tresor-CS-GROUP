@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <link type="text/css" href="../css/page.css" rel="stylesheet">
+       
+        <link rel="stylesheet" href="../css/theme.css">
+        <link rel="stylesheet" href="../css/final.css">
 
     </head>
     <body id="aplMain">
