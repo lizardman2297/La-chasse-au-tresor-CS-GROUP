@@ -2,6 +2,8 @@
 <html>
     <head>
         <link type="text/css" href="../css/redir-254698.css" rel="stylesheet">
+        <script src="../js/jquery.js"></script>
+        <script src="../js/bip.js"></script>
 
     </head>
     <body>
@@ -21,9 +23,9 @@
         <?php
             if (isset($_GET["stat"])) {
                 if ($_GET["stat"] == 1) {
-                    echo '<a href="./APL">Retrouvez votre chemin à présent</a>';
+                    echo '<a href="./APL.php">Retrouvez votre chemin à présent</a>';
                 } else{
-                    echo "bip biiiip";
+                    echo "<span onload='bip()' class='bip' id='bip'>bip biiiip</span>";
                 }
             }
             ?>
