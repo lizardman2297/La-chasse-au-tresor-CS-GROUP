@@ -7,7 +7,7 @@
     $q5 = $_POST["q5"];
 
     if ($q1 == "Caf" && $q2 == "561.20" && $q3 == "28" && $q4 == "691 200" && $q5 == "43") {
-        header("location: ../page/page1.php?q=ok");
+        header("location: ../page/CAF561.202869120043.php");
     }else {
         header("location: ../page/page4.php?q=not");
     }
